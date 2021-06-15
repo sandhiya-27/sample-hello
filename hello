@@ -1,0 +1,22 @@
+/*
+ * to change this license header , choose license headers in project properties.
+ * to change this complete file , choose tools | templates
+ * and open the template in the editor
+ */
+ package samplehello;
+ 
+ /**
+  * 
+  * @ author admin
+  * /
+  public class SampleHello {
+  
+     /**
+      *  @Param args the command line arguments
+      * /
+	public static void main(String[] args) {
+	    // TODO code application login here
+		System.out.println("Hello!");
+	}
+	
+}
